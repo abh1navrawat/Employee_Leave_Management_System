@@ -1,0 +1,8 @@
+/* Auth page specific styles */
+.auth-box{
+  max-width:420px;
+  margin:20px auto;
+  padding:20px;
+}
+.auth-box h3{ margin-top:0; color:#111827; }
+.auth-actions{ display:flex; gap:10px; align-items:center; justify-content:flex-end; }
