@@ -7,4 +7,4 @@ Seed manager: run `node seed.js` in `backend` to create a sample manager (manage
 
 
 
-Frontend may not work properly :(
+Frontend is minimal(no bootstrap either :(
