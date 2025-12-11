@@ -22,11 +22,14 @@ Employee_Leave_Management_System/
 
 
 Setup & Installation
+
 1. Clone the Repository
+
 git clone https://github.com/abh1navrawat/Employee_Leave_Management_System.git
 cd Employee_Leave_Management_System
 
-2. Backend Setup
+3. Backend Setup
+
 cd backend
 npm install
 
@@ -66,8 +69,7 @@ As a Manager
 ✔ Approve or reject requests
 ✔ View history of leave activities
 
-  Technologies Used
-
+ Technologies Used
   
 Layer	Tech
 Frontend	HTML / CSS / JS / (React or similar)
